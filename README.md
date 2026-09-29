@@ -4,7 +4,7 @@
 
 A pure HTML and CSS button effect featuring a vibrant, neon-like rainbow glow on hover. The animation uses a blurred, gradient-shifting pseudo-element layered behind the button to achieve a dynamic pulsing border. 
 
-https://github.com/user-attachments/assets/6b7a9efd-e32b-43a8-aec4-2c74a9c5ed6e
+https://github.com/user-attachments/assets/8f94fe9e-2f59-4757-9af2-f8a3b2e10de2
 
 ---
 
