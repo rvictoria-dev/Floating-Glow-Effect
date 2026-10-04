@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/8f94fe9e-2f59-4757-9af2-f8a3b2e10de2
 ### 🖿 Project structure
 
 ```
-floating-glow-effect/
+Floating-Glow-Effect/
 ├── index.html
 ├── style.css
 └── README.md
