@@ -11,10 +11,15 @@ https://github.com/user-attachments/assets/8f94fe9e-2f59-4757-9af2-f8a3b2e10de2
 ### ★ Features
 
 - **Pure CSS Architecture:** Built entirely using semantic HTML5 and CSS3, eliminating the need for JavaScript or external libraries.
+  
 - **Dynamic Hover Effect:** Triggers a smooth, 3-second fade-in transition (`opacity: 1`) revealing a vibrant multi-color gradient border on hover.
+  
 - **Fluid Shifting Animation:** Utilizes a custom `@keyframes` animation that seamlessly loops a 400% scaled gradient backdrop horizontally for a fluid, liquid-like motion.
+  
 - **Layered Pseudo-Elements:** Leverages a precise `:before` and `:after` structural stacking context (`z-index`) to isolate the blur effect (`filter: blur(5px)`) safely behind the button surface.
+  
 - **Tactile Click Feedback:** Implements a reactive `:active` state that smoothly inverts text color to black for immediate visual confirmation upon user click.
+  
 - **Responsive Layout Alignment:** Designed using CSS Flexbox on the parent container to guarantee perfect centering on any screen size.
 
 ---
@@ -29,7 +34,7 @@ https://github.com/user-attachments/assets/8f94fe9e-2f59-4757-9af2-f8a3b2e10de2
 ### 🖿 Project structure
 
 ```
-Floating-Glow-Effect/
+floating-glow-effect/
 ├── index.html
 ├── style.css
 └── README.md
